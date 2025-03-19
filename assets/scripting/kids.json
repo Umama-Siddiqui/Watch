@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Colorful Cartoon Watch",
+        "description": "A vibrant watch featuring popular cartoon characters, perfect for kids who love fun designs.",
+        "image": "kid1.jpeg"
+    },
+    {
+        "title": "Glow-in-the-Dark Sports Watch",
+        "description": "This sporty watch glows in the dark, making it perfect for nighttime adventures.",
+        "image": "kid2.jpeg"
+    },
+    {
+        "title": "Animal Print Silicone Watch",
+        "description": "A playful silicone watch with cute animal prints, ideal for young animal lovers.",
+        "image": "kid3.jpeg"
+    },
+    {
+        "title": "Interactive Smartwatch for Kids",
+        "description": "An interactive smartwatch with games and educational apps, designed for kids to learn and play.",
+        "image": "kid4.jpeg"
+    },
+    {
+        "title": "Waterproof Dive Watch",
+        "description": "This waterproof dive watch is perfect for kids who love swimming and outdoor activities.",
+        "image": "kid5.jpeg"
+    },
+    {
+        "title": "Classic Kids' Analog Watch",
+        "description": "A classic analog watch designed for kids, featuring colorful hour markers for easy reading.",
+        "image": "kid6.jpeg"
+    },
+    {
+        "title": "Sparkly Glitter Watch",
+        "description": "A sparkly watch filled with glitter that kids will love, adding a bit of magic to their day.",
+        "image": "kid7.jpeg"
+    },
+    {
+        "title": "Superhero Themed Watch",
+        "description": "A superhero-themed watch featuring their favorite heroes, perfect for young fans.",
+        "image": "kid8.jpeg"
+    },
+    {
+        "title": "Bright LED Digital Watch",
+        "description": "A bright LED digital watch that shows the time in a fun way with colorful lights.",
+        "image": "kid9.jpeg"
+    },
+    {
+        "title": "Cute Unicorn Watch",
+        "description": "A cute unicorn watch that adds a touch of fantasy to any outfit, loved by little dreamers.",
+        "image": "kid10.jpeg"
+    }
+]

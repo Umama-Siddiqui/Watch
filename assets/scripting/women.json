@@ -1,0 +1,52 @@
+[
+   {
+        "title": "Elegant Silver Bangle Watch",
+        "description": "A stylish silver bangle watch that adds a touch of elegance to any outfit.",
+        "image": "women1.jpg"
+    },
+    {
+        "title": "Rose Gold Dress Watch",
+        "description": "This rose gold dress watch features a delicate design, perfect for formal occasions.",
+        "image": "women2.jpeg"
+    },
+    {
+        "title": "Sporty Pink Silicone Watch",
+        "description": "A sporty pink silicone watch designed for active lifestyles with a vibrant look.",
+        "image": "women3.jpeg"
+    },
+    {
+        "title": "Classic Leather Strap Watch",
+        "description": "A classic leather strap watch with a timeless design, suitable for everyday wear.",
+        "image": "women4.jpeg"
+    },
+    {
+        "title": "Chic Mesh Bracelet Watch",
+        "description": "This chic mesh bracelet watch offers a modern touch with its sleek design and comfortable fit.",
+        "image": "women5.jpeg"
+    },
+    {
+        "title": "Vintage Floral Print Watch",
+        "description": "A vintage watch with a floral print face, perfect for adding a feminine touch to your style.",
+        "image": "women6.jpg"
+    },
+    {
+        "title": "Luxury Diamond-Accented Watch",
+        "description": "A luxurious watch adorned with diamond accents, making it a stunning accessory for special occasions.",
+        "image": "women7.jpeg"
+    },
+    {
+        "title": "Minimalist White Ceramic Watch",
+        "description": "This minimalist white ceramic watch combines elegance and simplicity for a modern look.",
+        "image": "women8.jpeg"
+    },
+    {
+        "title": "Bohemian Beaded Watch",
+        "description": "A bohemian-style watch featuring a beaded strap, perfect for a laid-back, stylish look.",
+        "image": "women9.jpeg"
+    },
+    {
+        "title": "Trendy Smartwatch",
+        "description": "Stay connected with this trendy smartwatch that offers fitness tracking and customizable watch faces.",
+        "image": "women10.jpeg"
+    }
+]

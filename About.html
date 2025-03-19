@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us Page</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        /* Custom styles */
+        body{
+            background: #464242;
+        }
+        .section-title {
+            margin: 50px 0 20px;
+        }
+        .team-member {
+            transition: transform 0.2s;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+        }
+        .team-member:hover {
+            transform: scale(1.05);
+            box-shadow: 0 4px 20px rgba(185, 179, 179, 0.89);
+        }
+        .mission-statement {
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(185, 179, 179, 0.89);
+        }
+        h2 {
+            color: #007bff;
+        }
+    </style>
+</head>
+<body>
+    <header></header>
+    <div class="container my-5">
+       <div class="mission-statement bg-black" style="color: goldenrod;">
+            <h1 class="text-center mb-4 ">About Us</h1>
+            <p class="text-center mb-5">
+                At BrandName, we are committed to creating a nurturing environment that fosters learning, growth, and collaboration. Our goal is to equip individuals with the skills and knowledge they need to succeed in today's fast-paced world. We believe in the power of education and the importance of community, and we strive to create opportunities that benefit everyone.
+            </p>
+       </div>
+
+        <h2 class="text-center section-title"style="color: goldenrod;">Our Team</h2>
+        <div class="row justify-content-center">
+            <!-- Team Member -->
+            <div class="col-md-4 mb-4">
+                <div class="card team-member text-center">
+                    <img src="assets/img/logo.webp" class="card-img-top" alt="Team Member">
+                    <div class="card-body bg-black" style="color: goldenrod;">
+                        <h5 class="card-title">M.Umama</h5>
+                        <p class="card-text">CEO & Founder</p>
+                        <p class="card-text">
+                            M.Umama has over 10 years of experience in the education sector, 
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="mission-statement text-center bg-black" style="color: goldenrod;">
+            <h2 class="text-center section-title mb-5"style="color: goldenrod;">Our Mission</h2>
+            <p>
+                Our mission at BrandName is to empower individuals through quality education and resources, fostering a community where everyone can thrive and achieve their goals. We are dedicated to providing innovative programs that are accessible to all, regardless of their background. By leveraging technology and collaboration, we aim to break down barriers to education and create opportunities for personal and professional growth. Together, we can build a brighter future for all.
+            </p>
+        </div>
+    </div>
+    <footer ></footer>
+</body>
+</html>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="assets/scripting/main.js"></script>

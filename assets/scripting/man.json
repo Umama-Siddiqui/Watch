@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Classic Silver Watch",
+        "description": "A timeless classic, this silver watch features a minimalist design perfect for any occasion.",
+        "image": "man1.jpeg"
+    },
+    {
+        "title": "Sporty Black Chronograph",
+        "description": "This sporty black chronograph watch is designed for the active individual, with a durable build and water resistance.",
+        "image": "man2.jpeg"
+    },
+    {
+        "title": "Elegant Gold Dress Watch",
+        "description": "An elegant gold watch with a refined look, perfect for formal events and special occasions.",
+        "image": "man3.jpeg"
+    },
+    {
+        "title": "Smart Digital Watch",
+        "description": "Stay connected with this smart digital watch featuring fitness tracking and customizable notifications.",
+        "image": "man4.jpeg"
+         },
+    {
+        "title": "Leather Strap Timepiece",
+        "description": "This sophisticated leather strap watch combines style and comfort, making it a versatile accessory.",
+        "image": "man5.jpeg"
+    },
+    {
+        "title": "Vintage Mechanical Watch",
+        "description": "A vintage mechanical watch that showcases exquisite craftsmanship and a rich history.",
+        "image": "man6.jpeg"
+    },
+    {
+        "title": "Waterproof Dive Watch",
+        "description": "Built for underwater adventures, this waterproof dive watch is reliable and robust.",
+        "image": "man7.jpeg"
+    },
+    {
+        "title": "Fashionable Rose Gold Watch",
+        "description": "This fashionable rose gold watch is a trendy accessory that adds a touch of elegance to any outfit.",
+        "image": "man8.jpeg"
+    },
+    {
+        "title": "Rugged Outdoor Watch",
+        "description": "Designed for outdoor enthusiasts, this rugged watch features GPS and altimeter functionalities.",
+        "image": "man9.jpg"   
+    },
+    {
+        "title": "Minimalist White Dial Watch",
+        "description": "A minimalist white dial watch that epitomizes simplicity and modern design.",
+        "image": "man10.jpeg"
+    }
+]
