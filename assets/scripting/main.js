@@ -10,7 +10,7 @@ document. querySelector ("header"). innerHTML += `
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav mx-auto">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="Home.html" style="color: goldenrod;">Home</a>
+                        <a class="nav-link active" aria-current="page" href="index.html" style="color: goldenrod;">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="Gallery.html" style="color: goldenrod;">Gallery</a>
